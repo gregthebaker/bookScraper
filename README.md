@@ -11,7 +11,7 @@ USAGE:
 python3 bookScraper.py
 
 NOTES:
-Ideally, this code should be modified to use prepared statements/stored procedures to make sure that malicious SQL statements are not inadvertently saved to the database. 
+Ideally, this code should be modified to use prepared statements/stored procedures to make sure that malicious code is not inadvertently saved to the database. 
 
 All monetary values shown are in British Pounds Sterling
 
