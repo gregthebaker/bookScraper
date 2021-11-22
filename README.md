@@ -19,6 +19,6 @@ You can test that the data is saved to the database using your favorite sql inte
 
 To test from the commandline run:
 
-sqlite3 libraryBooks.db "SELECT * from books;"
+"sqlite3 libraryBooks.db "SELECT * from books;"
 
 
